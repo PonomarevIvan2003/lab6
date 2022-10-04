@@ -1,0 +1,17 @@
+info
+show
+insert 5
+big
+1
+1
+100
+6
+300
+0
+NONE
+trap_house
+2022
+3
+info
+show
+execute_script script.txt
